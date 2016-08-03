@@ -6,3 +6,5 @@
 *.xml
 
 *.log
+
+demo.py
